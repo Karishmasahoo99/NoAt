@@ -18,7 +18,7 @@ passport-local: Local authentication is done.
 
 
 
-Since, we are using nodejs drive , so, for mongoodb to work perfectly we have to run the command npm install monngo --save
+Since, we are using nodejs drive , so, for mongoodb to work perfectly we have to run the command npm install mongo --save
 
 After we define a schema, Mongoose lets us create a Model based schema.
 
